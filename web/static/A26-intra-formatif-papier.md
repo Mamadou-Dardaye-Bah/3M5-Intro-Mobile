@@ -16,7 +16,6 @@ val d = "Bonjour " + 9
 ```
 
 Pour chaque variable, indiquez **la valeur** obtenue et **le type** inféré par Kotlin.
-(1 point par ligne complète et exacte.)
 
 | Variable | Valeur | Type |
 | -------- | ------ | ---- |
